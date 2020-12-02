@@ -1,0 +1,77 @@
+.gradient1{
+  margin-left: 10px;
+  overflow: hidden;
+  display: inline-block;
+  border-radius: 5%;
+  height: 200px;
+  width: 300px;
+ background-image: linear-gradient(90deg,
+  rgba(255,219,154,1) 0%, 
+ rgba(252,130,148,1) 100%);
+
+}
+.gradient2 {
+  margin-left: 10px;
+  overflow: hidden;
+ border-radius: 5%;
+  height: 200px;
+  width: 300px;
+ background-image: linear-gradient(90deg, 
+ rgba(136,199,247,1) 0%, 
+ rgba(17,142,222,1) 100%);
+ display: inline-block;
+ 
+ 
+}
+.gradient3 {
+  margin-left: 10px;
+  
+  overflow: hidden;
+  left: 10px;
+  border-radius: 5%;
+  height: 200px;
+  width: 300px;
+ background-image: linear-gradient(90deg, 
+ rgba(124,217,209,1) 0%,
+  rgba(2,207,183,1) 100%);display: inline-block;
+}
+h1{
+  padding-left: 1.3em;
+  padding-top: 0.3px;
+  color: #fffafe;
+}
+h3{
+  padding-left: 2em;
+  padding-top: 1em;
+  color:#fffafe;
+
+}
+h5{
+  padding-left: 3em;
+  padding-top: 0.3px;
+  color: #fffafe;
+}
+.round1 {
+  border-radius: 50%; 
+ 
+  width: 175px; height: 175px; 
+ 
+ position: absolute;
+ left: 10em;
+ top: 8em;
+ opacity: 0.3;
+ background-color: #fffafe;
+ overflow: hidden;
+}
+.round2 {
+  border-radius: 50%; 
+ 
+  width: 175px; height: 175px; 
+ 
+ position: absolute;
+ left: 13em;
+ top: 0pc;
+ opacity: 0.3;
+ background-color: #fffafe;
+ overflow: hidden;
+}
